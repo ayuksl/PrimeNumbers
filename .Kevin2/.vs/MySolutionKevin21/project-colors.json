@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d910e1d-3319-40e3-84f2-59c11f2c3d97": {
+      "ProjectGuid": "3d910e1d-3319-40e3-84f2-59c11f2c3d97",
+      "DisplayName": "FunWithClasses",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ef7f6e02-2e5f-4675-be9c-3eed8e798cf7": {
+      "ProjectGuid": "ef7f6e02-2e5f-4675-be9c-3eed8e798cf7",
+      "DisplayName": "ReferenceVsValueTypes",
+      "ColorIndex": 1
+    },
+    "1fc11336-6b7c-418d-8e73-c8d5b46d03b7": {
+      "ProjectGuid": "1fc11336-6b7c-418d-8e73-c8d5b46d03b7",
+      "DisplayName": "FunWithExceptions",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

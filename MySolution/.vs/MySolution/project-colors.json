@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae1126ea-029a-41cc-9b43-49ec99862d05": {
+      "ProjectGuid": "ae1126ea-029a-41cc-9b43-49ec99862d05",
+      "DisplayName": "HelloWorld",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7a93690d-9528-4d01-89ec-60bd990492b5": {
+      "ProjectGuid": "7a93690d-9528-4d01-89ec-60bd990492b5",
+      "DisplayName": "FunWithClasses",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

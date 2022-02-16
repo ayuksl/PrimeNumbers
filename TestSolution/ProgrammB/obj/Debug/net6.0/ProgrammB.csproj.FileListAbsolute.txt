@@ -1,0 +1,15 @@
+C:\dev\TestSolution\ProgrammB\bin\Debug\net6.0\ProgrammB.exe
+C:\dev\TestSolution\ProgrammB\bin\Debug\net6.0\ProgrammB.deps.json
+C:\dev\TestSolution\ProgrammB\bin\Debug\net6.0\ProgrammB.runtimeconfig.json
+C:\dev\TestSolution\ProgrammB\bin\Debug\net6.0\ProgrammB.dll
+C:\dev\TestSolution\ProgrammB\bin\Debug\net6.0\ref\ProgrammB.dll
+C:\dev\TestSolution\ProgrammB\bin\Debug\net6.0\ProgrammB.pdb
+C:\dev\TestSolution\ProgrammB\obj\Debug\net6.0\ProgrammB.csproj.AssemblyReference.cache
+C:\dev\TestSolution\ProgrammB\obj\Debug\net6.0\ProgrammB.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TestSolution\ProgrammB\obj\Debug\net6.0\ProgrammB.AssemblyInfoInputs.cache
+C:\dev\TestSolution\ProgrammB\obj\Debug\net6.0\ProgrammB.AssemblyInfo.cs
+C:\dev\TestSolution\ProgrammB\obj\Debug\net6.0\ProgrammB.csproj.CoreCompileInputs.cache
+C:\dev\TestSolution\ProgrammB\obj\Debug\net6.0\ProgrammB.dll
+C:\dev\TestSolution\ProgrammB\obj\Debug\net6.0\ref\ProgrammB.dll
+C:\dev\TestSolution\ProgrammB\obj\Debug\net6.0\ProgrammB.pdb
+C:\dev\TestSolution\ProgrammB\obj\Debug\net6.0\ProgrammB.genruntimeconfig.cache

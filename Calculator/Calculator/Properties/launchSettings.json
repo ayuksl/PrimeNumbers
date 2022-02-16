@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "Calculator": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\dev\\MySolution\\Utilities\\bin\\Debug\\net6.0\\ref"
+    },
+    "Calculator 1 + 2": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "workingDirectory": "C:\\dev\\Calculator\\Calculator\\bin\\Debug\\net6.0"
+    },
+    "StringUtils": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\dev\.Kevin2\FunWithExceptions\bin\Debug\net6.0\FunWithExceptions.exe
+C:\dev\.Kevin2\FunWithExceptions\bin\Debug\net6.0\FunWithExceptions.deps.json
+C:\dev\.Kevin2\FunWithExceptions\bin\Debug\net6.0\FunWithExceptions.runtimeconfig.json
+C:\dev\.Kevin2\FunWithExceptions\bin\Debug\net6.0\FunWithExceptions.dll
+C:\dev\.Kevin2\FunWithExceptions\bin\Debug\net6.0\ref\FunWithExceptions.dll
+C:\dev\.Kevin2\FunWithExceptions\bin\Debug\net6.0\FunWithExceptions.pdb
+C:\dev\.Kevin2\FunWithExceptions\obj\Debug\net6.0\FunWithExceptions.csproj.AssemblyReference.cache
+C:\dev\.Kevin2\FunWithExceptions\obj\Debug\net6.0\FunWithExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.Kevin2\FunWithExceptions\obj\Debug\net6.0\FunWithExceptions.AssemblyInfoInputs.cache
+C:\dev\.Kevin2\FunWithExceptions\obj\Debug\net6.0\FunWithExceptions.AssemblyInfo.cs
+C:\dev\.Kevin2\FunWithExceptions\obj\Debug\net6.0\FunWithExceptions.csproj.CoreCompileInputs.cache
+C:\dev\.Kevin2\FunWithExceptions\obj\Debug\net6.0\FunWithExceptions.dll
+C:\dev\.Kevin2\FunWithExceptions\obj\Debug\net6.0\ref\FunWithExceptions.dll
+C:\dev\.Kevin2\FunWithExceptions\obj\Debug\net6.0\FunWithExceptions.pdb
+C:\dev\.Kevin2\FunWithExceptions\obj\Debug\net6.0\FunWithExceptions.genruntimeconfig.cache

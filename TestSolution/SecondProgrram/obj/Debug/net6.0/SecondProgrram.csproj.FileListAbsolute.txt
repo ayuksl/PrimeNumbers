@@ -1,0 +1,15 @@
+C:\dev\TestSolution\SecondProgrram\obj\Debug\net6.0\SecondProgrram.csproj.AssemblyReference.cache
+C:\dev\TestSolution\SecondProgrram\obj\Debug\net6.0\SecondProgrram.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TestSolution\SecondProgrram\obj\Debug\net6.0\SecondProgrram.AssemblyInfoInputs.cache
+C:\dev\TestSolution\SecondProgrram\obj\Debug\net6.0\SecondProgrram.AssemblyInfo.cs
+C:\dev\TestSolution\SecondProgrram\obj\Debug\net6.0\SecondProgrram.csproj.CoreCompileInputs.cache
+C:\dev\TestSolution\SecondProgrram\bin\Debug\net6.0\SecondProgrram.exe
+C:\dev\TestSolution\SecondProgrram\bin\Debug\net6.0\SecondProgrram.deps.json
+C:\dev\TestSolution\SecondProgrram\bin\Debug\net6.0\SecondProgrram.runtimeconfig.json
+C:\dev\TestSolution\SecondProgrram\bin\Debug\net6.0\SecondProgrram.dll
+C:\dev\TestSolution\SecondProgrram\bin\Debug\net6.0\ref\SecondProgrram.dll
+C:\dev\TestSolution\SecondProgrram\bin\Debug\net6.0\SecondProgrram.pdb
+C:\dev\TestSolution\SecondProgrram\obj\Debug\net6.0\SecondProgrram.dll
+C:\dev\TestSolution\SecondProgrram\obj\Debug\net6.0\ref\SecondProgrram.dll
+C:\dev\TestSolution\SecondProgrram\obj\Debug\net6.0\SecondProgrram.pdb
+C:\dev\TestSolution\SecondProgrram\obj\Debug\net6.0\SecondProgrram.genruntimeconfig.cache

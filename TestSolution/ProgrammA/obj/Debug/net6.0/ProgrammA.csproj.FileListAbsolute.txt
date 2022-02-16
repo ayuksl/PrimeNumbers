@@ -1,0 +1,14 @@
+C:\dev\TestSolution\ProgrammA\bin\Debug\net6.0\ProgrammA.exe
+C:\dev\TestSolution\ProgrammA\bin\Debug\net6.0\ProgrammA.deps.json
+C:\dev\TestSolution\ProgrammA\bin\Debug\net6.0\ProgrammA.runtimeconfig.json
+C:\dev\TestSolution\ProgrammA\bin\Debug\net6.0\ProgrammA.dll
+C:\dev\TestSolution\ProgrammA\bin\Debug\net6.0\ref\ProgrammA.dll
+C:\dev\TestSolution\ProgrammA\bin\Debug\net6.0\ProgrammA.pdb
+C:\dev\TestSolution\ProgrammA\obj\Debug\net6.0\ProgrammA.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TestSolution\ProgrammA\obj\Debug\net6.0\ProgrammA.AssemblyInfoInputs.cache
+C:\dev\TestSolution\ProgrammA\obj\Debug\net6.0\ProgrammA.AssemblyInfo.cs
+C:\dev\TestSolution\ProgrammA\obj\Debug\net6.0\ProgrammA.csproj.CoreCompileInputs.cache
+C:\dev\TestSolution\ProgrammA\obj\Debug\net6.0\ProgrammA.dll
+C:\dev\TestSolution\ProgrammA\obj\Debug\net6.0\ref\ProgrammA.dll
+C:\dev\TestSolution\ProgrammA\obj\Debug\net6.0\ProgrammA.pdb
+C:\dev\TestSolution\ProgrammA\obj\Debug\net6.0\ProgrammA.genruntimeconfig.cache

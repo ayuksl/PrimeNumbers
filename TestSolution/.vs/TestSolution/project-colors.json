@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6772aa1-4799-4dd3-8032-ba5671dc0adf": {
+      "ProjectGuid": "f6772aa1-4799-4dd3-8032-ba5671dc0adf",
+      "DisplayName": "ProgrammA",
+      "ColorIndex": 0
+    },
+    "78f26f0a-e744-4e38-8848-4d205f788790": {
+      "ProjectGuid": "78f26f0a-e744-4e38-8848-4d205f788790",
+      "DisplayName": "ProgrammB",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6735ce05-8c92-4124-89db-a25792f748ff": {
+      "ProjectGuid": "6735ce05-8c92-4124-89db-a25792f748ff",
+      "DisplayName": "MyApp",
+      "ColorIndex": 2
+    },
+    "7767c4ff-d903-4370-8696-2cb919877b0d": {
+      "ProjectGuid": "7767c4ff-d903-4370-8696-2cb919877b0d",
+      "DisplayName": "SecondProgrram",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

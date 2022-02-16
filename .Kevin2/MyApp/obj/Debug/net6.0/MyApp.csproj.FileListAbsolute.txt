@@ -1,0 +1,15 @@
+C:\dev\.Kevin2\MyApp\bin\Debug\net6.0\MyApp.exe
+C:\dev\.Kevin2\MyApp\bin\Debug\net6.0\MyApp.deps.json
+C:\dev\.Kevin2\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+C:\dev\.Kevin2\MyApp\bin\Debug\net6.0\MyApp.dll
+C:\dev\.Kevin2\MyApp\bin\Debug\net6.0\ref\MyApp.dll
+C:\dev\.Kevin2\MyApp\bin\Debug\net6.0\MyApp.pdb
+C:\dev\.Kevin2\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.Kevin2\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+C:\dev\.Kevin2\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+C:\dev\.Kevin2\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+C:\dev\.Kevin2\MyApp\obj\Debug\net6.0\MyApp.dll
+C:\dev\.Kevin2\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+C:\dev\.Kevin2\MyApp\obj\Debug\net6.0\MyApp.pdb
+C:\dev\.Kevin2\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+C:\dev\.Kevin2\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache

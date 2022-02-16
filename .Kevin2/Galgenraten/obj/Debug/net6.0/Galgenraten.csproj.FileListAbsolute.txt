@@ -1,0 +1,16 @@
+C:\dev\.Kevin2\Galgenraten\bin\Debug\net6.0\Galgenraten.exe
+C:\dev\.Kevin2\Galgenraten\bin\Debug\net6.0\wortliste.txt
+C:\dev\.Kevin2\Galgenraten\bin\Debug\net6.0\Galgenraten.deps.json
+C:\dev\.Kevin2\Galgenraten\bin\Debug\net6.0\Galgenraten.runtimeconfig.json
+C:\dev\.Kevin2\Galgenraten\bin\Debug\net6.0\Galgenraten.dll
+C:\dev\.Kevin2\Galgenraten\bin\Debug\net6.0\ref\Galgenraten.dll
+C:\dev\.Kevin2\Galgenraten\bin\Debug\net6.0\Galgenraten.pdb
+C:\dev\.Kevin2\Galgenraten\obj\Debug\net6.0\Galgenraten.csproj.AssemblyReference.cache
+C:\dev\.Kevin2\Galgenraten\obj\Debug\net6.0\Galgenraten.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.Kevin2\Galgenraten\obj\Debug\net6.0\Galgenraten.AssemblyInfoInputs.cache
+C:\dev\.Kevin2\Galgenraten\obj\Debug\net6.0\Galgenraten.AssemblyInfo.cs
+C:\dev\.Kevin2\Galgenraten\obj\Debug\net6.0\Galgenraten.csproj.CoreCompileInputs.cache
+C:\dev\.Kevin2\Galgenraten\obj\Debug\net6.0\Galgenraten.dll
+C:\dev\.Kevin2\Galgenraten\obj\Debug\net6.0\ref\Galgenraten.dll
+C:\dev\.Kevin2\Galgenraten\obj\Debug\net6.0\Galgenraten.pdb
+C:\dev\.Kevin2\Galgenraten\obj\Debug\net6.0\Galgenraten.genruntimeconfig.cache

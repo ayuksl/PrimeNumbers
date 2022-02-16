@@ -1,0 +1,14 @@
+C:\dev\.Kevin2\ReferenceVsValueTypes\obj\Debug\net6.0\ReferenceVsValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.Kevin2\ReferenceVsValueTypes\obj\Debug\net6.0\ReferenceVsValueTypes.AssemblyInfoInputs.cache
+C:\dev\.Kevin2\ReferenceVsValueTypes\obj\Debug\net6.0\ReferenceVsValueTypes.AssemblyInfo.cs
+C:\dev\.Kevin2\ReferenceVsValueTypes\obj\Debug\net6.0\ReferenceVsValueTypes.csproj.CoreCompileInputs.cache
+C:\dev\.Kevin2\ReferenceVsValueTypes\bin\Debug\net6.0\ReferenceVsValueTypes.exe
+C:\dev\.Kevin2\ReferenceVsValueTypes\bin\Debug\net6.0\ReferenceVsValueTypes.deps.json
+C:\dev\.Kevin2\ReferenceVsValueTypes\bin\Debug\net6.0\ReferenceVsValueTypes.runtimeconfig.json
+C:\dev\.Kevin2\ReferenceVsValueTypes\bin\Debug\net6.0\ReferenceVsValueTypes.dll
+C:\dev\.Kevin2\ReferenceVsValueTypes\bin\Debug\net6.0\ref\ReferenceVsValueTypes.dll
+C:\dev\.Kevin2\ReferenceVsValueTypes\bin\Debug\net6.0\ReferenceVsValueTypes.pdb
+C:\dev\.Kevin2\ReferenceVsValueTypes\obj\Debug\net6.0\ReferenceVsValueTypes.dll
+C:\dev\.Kevin2\ReferenceVsValueTypes\obj\Debug\net6.0\ref\ReferenceVsValueTypes.dll
+C:\dev\.Kevin2\ReferenceVsValueTypes\obj\Debug\net6.0\ReferenceVsValueTypes.pdb
+C:\dev\.Kevin2\ReferenceVsValueTypes\obj\Debug\net6.0\ReferenceVsValueTypes.genruntimeconfig.cache
